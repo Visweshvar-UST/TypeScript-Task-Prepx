@@ -1,0 +1,15 @@
+Typescript:
+
+1.create employee obejct with the field employeeId, name, email
+
+2.create a theatre application the user can choose the seats selection based on his interest , if seats are fulled(give message full) , and if user wants to cancel seats he can automatically cancel the seats
+
+3.create an employee obj , find out the employees by the department and there total salaries
+
+4. create a functions and develop a calculator application by using of a typescript and add,mul,div,sub
+
+5.Design a typescript application for library management system , the system need to represent various entities bookname,authors and number of members
+
+6.Develop a typescript application to calculate the insurance premium based on the various factors 
+
+7.Develop a hotel reservation system that should include hotel rooms,manage list of rooms ,allows to customers to check the room availability,book the rooms based on stay days and calculate the amount for total stay  
