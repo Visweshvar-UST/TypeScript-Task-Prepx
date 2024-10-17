@@ -1,9 +1,9 @@
-const EmployeeObject = {
+let employeeObject = {
     empId : "EMP12",
     empName : "visweshvar",
     email : "viswa@gmail.com"
 };
-console.log(EmployeeObject);
+console.log(employeeObject);
 
 
 interface empInterface {
