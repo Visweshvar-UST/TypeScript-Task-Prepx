@@ -36,7 +36,11 @@ switch(opp){
         console.log("Invalid output");
 };
 
-function calculator(a: number, b: number, opp: (x: number, y: number) => number  ): number {
+function calculator(
+    a: number, 
+    b: number, 
+    opp: (x: number, y: number) => number  
+    ): number {
     return  opp(a, b);
 }
 console.log(calculator(1,2,add));

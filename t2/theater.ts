@@ -7,9 +7,6 @@ const rl  = readline.createInterface({
 
 const sceats: String[][] = Array(5).fill(null).map(() => Array(5).fill('available'))
 
-
-
-
 function displaySeats(){
     sceats.forEach((seats,ind)=>{
         console.log(ind+1+"  "+seats.join(" | "));
